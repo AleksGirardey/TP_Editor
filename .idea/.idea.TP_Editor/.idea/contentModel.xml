@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aleks\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Aleks\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aleks\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TP_Editor.-224624918.00" t="ExcludeRecursive" />
+    <e p="D:\Workspace\Unity\TP_Editor" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Toolbox" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="MoveAround2D.cs" t="Include" />
+            <e p="TextureRepeatQuad.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="ToolboxEngine.csproj" t="IncludeRecursive" />
+      <e p="TP_Editor.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
