@@ -8,6 +8,8 @@ public class MoveAround2D : MonoBehaviour {
     
     private Vector3 _initialPosition = Vector3.zero;
 
+    public Vector3 Center => _initialPosition;
+
     [Header("Debug")]
     public bool guiDebug;
     public int guiFontSize = 24;

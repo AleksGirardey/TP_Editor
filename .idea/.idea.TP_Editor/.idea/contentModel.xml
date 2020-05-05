@@ -7,8 +7,22 @@
     <e p="D:\Workspace\Unity\TP_Editor" t="IncludeRecursive">
       <e p="Assets" t="Include">
         <e p="Toolbox" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Inspectors" t="Include">
+              <e p="ActionsSequencerInspector.cs" t="Include" />
+              <e p="AnimSamplerInspector.cs" t="Include" />
+              <e p="ChangeSpriteColorInspector.cs" t="Include" />
+              <e p="MoveAroundInspector.cs" t="Include" />
+              <e p="Path2DInspector.cs" t="Include" />
+              <e p="ToolboxGuiLayout.cs" t="Include" />
+            </e>
+          </e>
           <e p="Runtime" t="Include">
+            <e p="ActionsSequencer.cs" t="Include" />
+            <e p="AnimSampler.cs" t="Include" />
+            <e p="ChangeSpriteColor.cs" t="Include" />
             <e p="MoveAround2D.cs" t="Include" />
+            <e p="Path2D.cs" t="Include" />
             <e p="TextureRepeatQuad.cs" t="Include" />
           </e>
         </e>
@@ -16,6 +30,7 @@
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="ToolboxEditor.csproj" t="IncludeRecursive" />
       <e p="ToolboxEngine.csproj" t="IncludeRecursive" />
       <e p="TP_Editor.sln" t="IncludeFlat" />
     </e>
