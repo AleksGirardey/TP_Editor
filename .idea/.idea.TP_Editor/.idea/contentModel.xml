@@ -8,21 +8,43 @@
       <e p="Assets" t="Include">
         <e p="Toolbox" t="Include">
           <e p="Editor" t="Include">
+            <e p="EditorWindows" t="Include">
+              <e p="AnimationSimulationWindow.cs" t="Include" />
+              <e p="CameraPreviewWindow.cs" t="Include" />
+              <e p="ToolboxWindow.cs" t="Include" />
+            </e>
             <e p="Inspectors" t="Include">
               <e p="ActionsSequencerInspector.cs" t="Include" />
               <e p="AnimSamplerInspector.cs" t="Include" />
               <e p="ChangeSpriteColorInspector.cs" t="Include" />
+              <e p="GameDataInspector.cs" t="Include" />
+              <e p="GameManagerInspector.cs" t="Include" />
               <e p="MoveAroundInspector.cs" t="Include" />
               <e p="Path2DInspector.cs" t="Include" />
               <e p="ToolboxGuiLayout.cs" t="Include" />
+            </e>
+            <e p="PropertyDrawers" t="Include">
+              <e p="CustomSliderPropertyDrawer.cs" t="Include" />
+              <e p="GameObjectTagFilterDrawer.cs" t="Include" />
+              <e p="SerializableDataDrawer.cs" t="Include" />
             </e>
           </e>
           <e p="Runtime" t="Include">
             <e p="ActionsSequencer.cs" t="Include" />
             <e p="AnimSampler.cs" t="Include" />
             <e p="ChangeSpriteColor.cs" t="Include" />
+            <e p="Game" t="Include">
+              <e p="GameData.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+            </e>
             <e p="MoveAround2D.cs" t="Include" />
             <e p="Path2D.cs" t="Include" />
+            <e p="PropertyAttributes" t="Include">
+              <e p="CustomSliderPropertyAttribute.cs" t="Include" />
+              <e p="GameObjectTagFilterAttribute.cs" t="Include" />
+            </e>
+            <e p="SerializableData.cs" t="Include" />
+            <e p="TestProperty.cs" t="Include" />
             <e p="TextureRepeatQuad.cs" t="Include" />
           </e>
         </e>
